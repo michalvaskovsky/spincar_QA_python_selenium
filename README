@@ -1,0 +1,21 @@
+I. depedencies
+    1. selenium (pip install selenium)
+    2. chrome (latest chrome version available)
+    3. chromedriver (latest stable version available suitable to version of chrome installed)
+
+    IMPORTANT: Selenium chromedriver path must be in PATH environment variable
+
+II. running the script
+    python main.py
+
+III. Successfull test. (All tests passed)
+
+    handle_login() status=True
+    Test 3.B. status=True message=
+    Test 3.C. status=True message=
+    Added customer. customer name=user_7lhjhxv4zh
+    Test 4.B. status=True message=https://test-selenium-manager.spincar.com/my-customer/edit/4183?_acid=f64
+    Test 4.B. status=True message=
+    Finished
+
+
